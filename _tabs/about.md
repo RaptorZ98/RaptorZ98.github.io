@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+{: .prompt-tip }
 ## ABOUT US
 
 We feel a deep passion for accounting, and when the oportunity arise, we had no doubt about the theme of the project.

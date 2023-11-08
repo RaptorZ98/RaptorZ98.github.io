@@ -8,6 +8,6 @@ tags: [intro,manzanita]
 
 ## Welcome to Manzanita
 
-Solutions in accounting
+Solutions in accounting.
 
 ![manzana](https://img.freepik.com/fotos-premium/manzana-silvestre-europea-o-fruta-manzana-bosque-monton-manzanas-rojas-maduras-frescas-colgando-rama-arbol_653449-4286.jpg?w=2000)
